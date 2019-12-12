@@ -53,7 +53,9 @@
 			                <div class="col-lg-3 col-sm-3">
                    <div class="logo">
                         <a href="index.html">
-                           <img src="/Users/usuario/Desktop/luis graduacion/Logo2.png" width="150" heigth="150" alt="/Users/usuario/Desktop/luis graduacion/Logo.png">
+                           <img src="/Users/usuario/Desktop/luis graduacion/Logo2.png" width="150" heigth="150"
+			   alt="/Users/usuario/Desktop/luis graduacion/Logo.png">
+			  <a href="https://imgur.com/ivTlhqy"><img src="https://i.imgur.com/ivTlhqy.png" title="source: imgur.com" /></a>
                         </a>
                     </div>
                 </div>
