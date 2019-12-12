@@ -9,6 +9,11 @@
     
 <!-- Include All CSS -->
 <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+<link href="http://github.com/css/bootstrap.css"
+      rel="stylesheet" type="text/css">
+      
+      
+
 <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
     <link rel="stylesheet" type="text/css" href="css/owl.carousel.css" />
     <link rel="stylesheet" type="text/css" href="css/owl.theme.css" />
