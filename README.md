@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<link href="animate.css" type="text/css" rel="stylesheet" />
+
+
 <head>
     <title>Luis Alberto Vera Garcia</title>
     <meta charset="utf-8">
