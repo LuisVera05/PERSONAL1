@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<link href="animate.css" type="text/css" rel="stylesheet" />
+
+
+
+<head>
+	
+	
 <link href="bootstrap.css" type="text/css" rel="stylesheet" />
 <link href="font-awesome.min.css" type="text/css" rel="stylesheet" />
 <link href="magnific-popup.css" type="text/css" rel="stylesheet" />
@@ -9,9 +14,11 @@
 <link href="preset.css" type="text/css" rel="stylesheet" />
 <link href="responsive.css" type="text/css" rel="stylesheet" />
 <link href="style.css" type="text/css" rel="stylesheet" />
+<link href="animate.css" type="text/css" rel="stylesheet" />
 
 
-<head>
+
+
     <title>Luis Alberto Vera Garcia</title>
     <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
