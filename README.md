@@ -6,7 +6,8 @@
 
 <head>
 	
-	
+    
+<!-- Include All CSS -->
 <link href="bootstrap.css" type="text/css" rel="stylesheet" />
 <link href="font-awesome.min.css" type="text/css" rel="stylesheet" />
 <link href="magnific-popup.css" type="text/css" rel="stylesheet" />
@@ -15,6 +16,8 @@
 <link href="responsive.css" type="text/css" rel="stylesheet" />
 <link href="style.css" type="text/css" rel="stylesheet" />
 <link href="animate.css" type="text/css" rel="stylesheet" />
+    <!-- End Include All CSS -->
+
 
 
 
